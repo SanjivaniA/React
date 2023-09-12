@@ -1,6 +1,6 @@
 
    var heading = document.createElement("h1");
-   heading.innerHTML = "Hello World using JSaaa";
+   heading.innerHTML = "Hello World using JSsss";
    const root = document.getElementById("root");
    root.appendChild(heading);
 
